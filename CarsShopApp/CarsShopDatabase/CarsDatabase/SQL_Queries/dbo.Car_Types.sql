@@ -1,0 +1,5 @@
+﻿CREATE TABLE Car_Types
+(
+	[Type_id] BIGINT NOT NULL IDENTITY(1, 1) PRIMARY KEY, 
+    [Type_name] NVARCHAR(200) NOT NULL
+)

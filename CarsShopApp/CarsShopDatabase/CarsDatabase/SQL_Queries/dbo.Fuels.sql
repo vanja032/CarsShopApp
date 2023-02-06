@@ -1,0 +1,5 @@
+﻿CREATE TABLE Fuels
+(
+	[Fuel_id] BIGINT NOT NULL IDENTITY(1, 1) PRIMARY KEY, 
+    [Fuel_name] NVARCHAR(100) NOT NULL
+)

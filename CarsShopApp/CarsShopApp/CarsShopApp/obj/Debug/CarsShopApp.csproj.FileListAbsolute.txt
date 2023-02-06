@@ -1,0 +1,4 @@
+G:\Files\VP2022\CarsShopApp\CarsShopApp\CarsShopApp\obj\Debug\CarsShopApp.csproj.AssemblyReference.cache
+G:\Files\VP2022\CarsShopApp\CarsShopApp\CarsShopApp\obj\Debug\CarsShopApp.Properties.Resources.resources
+G:\Files\VP2022\CarsShopApp\CarsShopApp\CarsShopApp\obj\Debug\CarsShopApp.csproj.GenerateResource.cache
+G:\Files\VP2022\CarsShopApp\CarsShopApp\CarsShopApp\obj\Debug\CarsShopApp.csproj.CoreCompileInputs.cache

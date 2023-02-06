@@ -1,0 +1,5 @@
+﻿CREATE TABLE Car_Marks
+(
+	[Mark_id] BIGINT NOT NULL IDENTITY(1, 1) PRIMARY KEY, 
+    [Mark_name] NVARCHAR(200) NOT NULL
+)
