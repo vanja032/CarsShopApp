@@ -26,7 +26,7 @@ Simple cars shop management app written in C# with SQL Server database
 
 ![Car Gearboxes panel](CarsShopApp/AppForms/Screenshot_6.jpg)
 
-- ### FUels panel
+- ### Fuels panel
 
 ![Fuels panel](CarsShopApp/AppForms/Screenshot_7.jpg)
 
