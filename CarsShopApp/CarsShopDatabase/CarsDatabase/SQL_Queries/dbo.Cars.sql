@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[Cars] (
+﻿CREATE TABLE Cars (
     [Car_id]                 BIGINT         IDENTITY (1, 1) NOT NULL,
     [Car_name]               NVARCHAR (100) NOT NULL,
     [Car_mark]               BIGINT         NOT NULL,

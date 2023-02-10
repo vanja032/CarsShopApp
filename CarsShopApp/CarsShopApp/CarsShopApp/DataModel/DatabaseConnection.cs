@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
+using System.Windows.Forms;
 
 namespace CarsShopApp.DataModel
 {
@@ -29,7 +30,15 @@ namespace CarsShopApp.DataModel
         public void RefreshDatabase(DataSet set)
         {
             SqlCommandBuilder builder = new SqlCommandBuilder(adapter);
-            builder.DataAdapter.Update(set.Tables[0]);
+            builder.DataAdapter.Update(set);
+        }
+        public void ExecuteExternalTableCommand(string query)
+        {
+            SqlConnection connection = new SqlConnection(connection_string);
+            connection.Open();
+            SqlCommand command = new SqlCommand(query, connection);
+            command.ExecuteNonQuery();
+            connection.Close();
         }
     }
 }

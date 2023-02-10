@@ -55,14 +55,90 @@
     <Compile Include="DataModel\Models\CarType.cs" />
     <Compile Include="DataModel\Models\Fuel.cs" />
     <Compile Include="DataModel\Models\User.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="DataModel\Models\UserRoles.cs" />
+    <Compile Include="DataViews\CarGearboxesPanel.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="DataViews\CarGearboxesPanel.Designer.cs">
+      <DependentUpon>CarGearboxesPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataViews\ManageUsersPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataViews\ManageUsersPanel.Designer.cs">
+      <DependentUpon>ManageUsersPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataViews\CarsPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataViews\CarsPanel.Designer.cs">
+      <DependentUpon>CarsPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataViews\CarModelsPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataViews\CarModelsPanel.Designer.cs">
+      <DependentUpon>CarModelsPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataViews\FuelPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataViews\FuelPanel.Designer.cs">
+      <DependentUpon>FuelPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataViews\CarTypesPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataViews\CarTypesPanel.Designer.cs">
+      <DependentUpon>CarTypesPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataViews\CarMarksPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataViews\CarMarksPanel.Designer.cs">
+      <DependentUpon>CarMarksPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataViews\LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataViews\LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataViews\UserPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataViews\UserPanel.Designer.cs">
+      <DependentUpon>UserPanel.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DataViews\CarGearboxesPanel.resx">
+      <DependentUpon>CarGearboxesPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataViews\ManageUsersPanel.resx">
+      <DependentUpon>ManageUsersPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataViews\CarsPanel.resx">
+      <DependentUpon>CarsPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataViews\CarModelsPanel.resx">
+      <DependentUpon>CarModelsPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataViews\FuelPanel.resx">
+      <DependentUpon>FuelPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataViews\CarTypesPanel.resx">
+      <DependentUpon>CarTypesPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataViews\CarMarksPanel.resx">
+      <DependentUpon>CarMarksPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataViews\LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataViews\UserPanel.resx">
+      <DependentUpon>UserPanel.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

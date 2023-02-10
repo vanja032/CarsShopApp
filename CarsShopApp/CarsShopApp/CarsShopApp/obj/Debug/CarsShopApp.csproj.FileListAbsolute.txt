@@ -2,3 +2,17 @@ G:\Files\VP2022\CarsShopApp\CarsShopApp\CarsShopApp\obj\Debug\CarsShopApp.csproj
 G:\Files\VP2022\CarsShopApp\CarsShopApp\CarsShopApp\obj\Debug\CarsShopApp.Properties.Resources.resources
 G:\Files\VP2022\CarsShopApp\CarsShopApp\CarsShopApp\obj\Debug\CarsShopApp.csproj.GenerateResource.cache
 G:\Files\VP2022\CarsShopApp\CarsShopApp\CarsShopApp\obj\Debug\CarsShopApp.csproj.CoreCompileInputs.cache
+G:\Files\VP2022\CarsShopApp\CarsShopApp\CarsShopApp\bin\Debug\CarsShopApp.exe.config
+G:\Files\VP2022\CarsShopApp\CarsShopApp\CarsShopApp\bin\Debug\CarsShopApp.exe
+G:\Files\VP2022\CarsShopApp\CarsShopApp\CarsShopApp\bin\Debug\CarsShopApp.pdb
+G:\Files\VP2022\CarsShopApp\CarsShopApp\CarsShopApp\obj\Debug\CarsShopApp.DataViews.UserPanel.resources
+G:\Files\VP2022\CarsShopApp\CarsShopApp\CarsShopApp\obj\Debug\CarsShopApp.exe
+G:\Files\VP2022\CarsShopApp\CarsShopApp\CarsShopApp\obj\Debug\CarsShopApp.pdb
+G:\Files\VP2022\CarsShopApp\CarsShopApp\CarsShopApp\obj\Debug\CarsShopApp.DataViews.CarMarksPanel.resources
+G:\Files\VP2022\CarsShopApp\CarsShopApp\CarsShopApp\obj\Debug\CarsShopApp.DataViews.LogIn.resources
+G:\Files\VP2022\CarsShopApp\CarsShopApp\CarsShopApp\obj\Debug\CarsShopApp.DataViews.CarTypesPanel.resources
+G:\Files\VP2022\CarsShopApp\CarsShopApp\CarsShopApp\obj\Debug\CarsShopApp.DataViews.CarGearboxesPanel.resources
+G:\Files\VP2022\CarsShopApp\CarsShopApp\CarsShopApp\obj\Debug\CarsShopApp.DataViews.FuelPanel.resources
+G:\Files\VP2022\CarsShopApp\CarsShopApp\CarsShopApp\obj\Debug\CarsShopApp.DataViews.CarModelsPanel.resources
+G:\Files\VP2022\CarsShopApp\CarsShopApp\CarsShopApp\obj\Debug\CarsShopApp.DataViews.CarsPanel.resources
+G:\Files\VP2022\CarsShopApp\CarsShopApp\CarsShopApp\obj\Debug\CarsShopApp.DataViews.ManageUsersPanel.resources
